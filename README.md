@@ -43,6 +43,6 @@
 
 6. 总结	33<br>
 
- 1. ### 页面效果部分展示图片
+ ### 页面效果部分展示图片
 
 ![image](https://sm.ms/image/EXmyWgOfw7zkMs5)
