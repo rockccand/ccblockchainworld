@@ -43,5 +43,6 @@
 
 6. 总结	33<br>
 
-   ### 页面效果部分展示图片
-![](https://i.loli.net/2020/12/15/EXmyWgOfw7zkMs5.png)
+ 1. ### 页面效果部分展示图片
+
+![部分游戏物品交易页面](https://i.loli.net/2020/12/15/EXmyWgOfw7zkMs5.png)
