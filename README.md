@@ -44,4 +44,5 @@
 6. 总结	33<br>
 
  ### 页面效果登录展示图
+ #### tips：部分图片需要借助一些合理上网的工具才能看到
  ![](https://i.loli.net/2021/01/04/cFtmEBYQaybNUxI.png)
