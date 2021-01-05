@@ -45,5 +45,5 @@
 
  ### 页面效果登录展示图
  #### tips：部分图片需要借助一些合理上网的工具才能看到
- ![](https://i.loli.net/2021/01/04/cFtmEBYQaybNUxI.png)
-![](https://i.loli.net/2021/01/05/leZQYbKwyNfnXOV.png)
+ ![](https://i.loli.net/2021/01/04/cFtmEBYQaybNUxI.png) <br>
+![](https://i.loli.net/2021/01/05/fwZJKG5Umej8any.png)
